@@ -5,4 +5,4 @@ Techniques:
 -jQuery
 -GSAP 
 
-Live url: 
+Live url: https://nft-landing-page.vercel.app/
